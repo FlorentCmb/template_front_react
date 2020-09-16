@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this repository
+
+This folder contain a default React app, everything is on the master branch so the only thing you have to do is use the template during your repository creation.
 
 ## Available Scripts
 
